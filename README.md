@@ -24,7 +24,7 @@ The main objectives of this project are to:
 
 ---
 
-## 🔢 What are Text Embeddings?
+## What are Text Embeddings?
 
 A **text embedding** is a numerical representation of text that captures semantic information.
 
@@ -56,7 +56,7 @@ Texts with similar meanings generally have vectors that are closer together in t
 
 ---
 
-## 🤖 OpenAI Embedding Models
+## OpenAI Embedding Models
 
 The project works with OpenAI embedding models such as:
 
@@ -67,7 +67,7 @@ These models convert input text into high-dimensional numerical vectors that can
 
 ---
 
-## 🔄 Semantic Search Pipeline
+## Semantic Search Pipeline
 
 The project follows a basic semantic search workflow:
 
@@ -93,7 +93,7 @@ This approach focuses on **meaning rather than exact keyword matching**.
 
 ---
 
-## 🛠️ Key Concepts Covered
+## Key Concepts Covered
 
 ### 1. Generating Embeddings
 
@@ -181,7 +181,7 @@ When a user asks a question, the system searches for the entries whose embedding
 
 ---
 
-## 🔍 Keyword Search vs Semantic Search
+## Keyword Search vs Semantic Search
 
 | Feature | Keyword Search | Semantic Search |
 |---|---|---|
@@ -208,7 +208,7 @@ Semantic search can recognize that these texts are related even though the wordi
 
 ---
 
-## 📊 Embeddings and RAG
+## Embeddings and RAG
 
 Embeddings are one of the fundamental components of **Retrieval-Augmented Generation (RAG)**.
 
@@ -240,7 +240,7 @@ The current project focuses primarily on the **embedding and semantic retrieval*
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Python**
 - **OpenAI Embeddings API**
@@ -252,7 +252,7 @@ The current project focuses primarily on the **embedding and semantic retrieval*
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 Through this project, the following concepts can be understood:
 
@@ -268,7 +268,7 @@ Through this project, the following concepts can be understood:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 This project can be extended into a complete semantic retrieval or RAG system by adding:
 
@@ -286,7 +286,7 @@ This project can be extended into a complete semantic retrieval or RAG system by
 
 ---
 
-## 🌐 Applications
+## Applications
 
 Text embeddings and semantic search are widely used in:
 
@@ -302,7 +302,7 @@ Text embeddings and semantic search are widely used in:
 
 ---
 
-## 📝 Conclusion
+## Conclusion
 
 This project provides a practical introduction to **OpenAI text embeddings and semantic search**.
 
